@@ -1,5 +1,5 @@
 # Zillow.com-Scraper
-Scraper for home data from Realtor.com
+Scraper for home data from Zillow.com
 
 # Purpose
 This is a Zillow.com scaper for home data where I will use regression models to predict what price my parents should list the home for when they are ready to sell it. 
